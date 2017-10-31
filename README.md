@@ -8,11 +8,7 @@ Chatbot practices
 - [![Coverage Status](https://coveralls.io/repos/node-webot/wechat/badge.png)](https://coveralls.io/r/node-webot/wechat)
 
 
-<details>
-           <summary>UsefulLinks</summary>
-           <p>[简易教程](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)  
-              [公众平台](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html) 
-              [官方文档](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432)
-          </p>
-</details>
-
+-[简易教程](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)  
+-[公众平台](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html) 
+-[官方文档](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432)
+         
