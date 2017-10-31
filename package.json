@@ -1,0 +1,24 @@
+{
+  "name": "mrwander",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "co-wechat": "^2.3.0",
+    "wechat": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzhang82/Wechat--MR.Wanders.git"
+  },
+  "author": "frankzhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzhang82/Wechat--MR.Wanders/issues"
+  },
+  "homepage": "https://github.com/zzhang82/Wechat--MR.Wanders#readme"
+}
